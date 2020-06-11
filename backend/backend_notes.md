@@ -25,7 +25,7 @@ Tipos de Bancos de Dados
 
 Knex Commands:
 
-Init Knex In Repository: 'npx knex intit'
+Init Knex In Repository: 'npx knex init'
 Create new migration: 'npx knex migrate:make create_ongs'
 Run Migration: 'npx knex migrate:latest'
 Rollback last migration: 'npx knex migrate:rollback'
