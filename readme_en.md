@@ -16,8 +16,7 @@
 ## App Mobile Screenshots
 
 <p align="center">
-  <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/inicial.png"/>
-  <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/mapa.png"/>
+  <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/incidents.png"/>
   <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/detail.png"/>
 </p>
 

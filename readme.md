@@ -16,14 +16,13 @@
 ## Screenshots App Mobile
 
 <p align="center">
-  <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/inicial.png"/>
-  <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/mapa.png"/>
+  <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/incidents.png"/>
   <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/detail.png"/>
 </p>
 
 ## Sobre
 
-Aplicação desenvolvida na Semana Omnistack 11, da Rocketseat: Projeto de uma plataforma web que permite que ONG's cadastrem causas que necessitem de apoio. Pessoas interessadas em ajudar podem através do app mobile entrar em contato com a ONG via email ou whatsapp para oferecer apoio.
+Aplicação desenvolvida na Semana Omnistack 11 da Rocketseat, uma plataforma web para que ONG's cadastrem causas que necessitem de apoio. Pessoas interessadas em ajudar podem através do app mobile entrar em contato com a ONG via email ou whatsapp.
 
 ## Tecnologias utilizadas
 
