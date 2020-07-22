@@ -1,4 +1,4 @@
-# Ecoleta
+# Be The Hero
 
 <p align="center">
     <img src="https://github.com/felipedmsantos95/be-the-hero/blob/master/img/omnistack11.jpg"/>
