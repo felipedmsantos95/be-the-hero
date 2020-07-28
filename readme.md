@@ -22,7 +22,7 @@
 
 ## Sobre
 
-Aplicação desenvolvida na Semana Omnistack 11 da Rocketseat, uma plataforma web para que ONG's cadastrem causas que necessitem de apoio. Pessoas interessadas em ajudar podem através do app mobile entrar em contato com a ONG via email ou whatsapp.
+Aplicação desenvolvida na Semana Omnistack 11 da [Rocketseat](https://github.com/Rocketseat), uma plataforma web para que ONG's cadastrem causas que necessitem de apoio. Pessoas interessadas em ajudar podem através do app mobile entrar em contato com a ONG via email ou whatsapp.
 
 ## Tecnologias utilizadas
 
